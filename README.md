@@ -10,8 +10,6 @@ Hi there! I'm Kejia Chen (陈可嘉), a Ph.D. student at the Visual Intelligence
 
 ---
 
-### 🔤 Language Stats
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thecommonirin&layout=compact&theme=default)
 
 ---
