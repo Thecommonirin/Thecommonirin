@@ -1,15 +1,21 @@
-# About Me
+# Hi there! I'm Kejia Chen (陈可嘉) 👋
 
-Hi there! I'm Kejia Chen (陈可嘉), a Ph.D. student at the Visual Intelligence and Pattern Analysis (VIPA) Lab, supervised by Prof. Zunlei Feng and Prof. Mingli Song.
+I'm a Ph.D. candidate at the Visual Intelligence and Pattern Analysis (VIPA) Lab, Zhejiang University. I'm fortunate to be advised by Prof. [Zunlei Feng](https://person.zju.edu.cn/fengzunlei) and Prof. [Mingli Song](https://scholar.google.com/citations?user=7oLbhAwAAAAJ&hl=en). 
 
-🔬 My long-term research goal is to build **Trustworthy Machine Learning systems**, with a current focus on Large Language Models (LLMs) in the areas of efficiency, privacy, and security.
-
-🌐 I occasionally share research updates and project progress on my [homepage](https://thecommonirin.github.io/) — feel free to check it out!
-
-📫 If you're interested in collaboration or have any questions, feel free to contact me via [email](irinchan1222@outlook.com).
+Currently, I am a **Visiting Student** at Nanyang Technological University, working in the group led by Prof. [Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/).
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thecommonirin&layout=compact&theme=default)
+### 📚 Latest News
+- 🎉 [**ICLR 2026**] Our paper "Safety at One Shot: Patching Fine-Tuned LLMs with A Single Instance" was accepted!
+- 📝 [**PR 2026**] "Self-Improved Holistic Alignment for Preference Enhancement" was accepted by *Pattern Recognition*.
+- 👨‍💻 Serving as a **Program Committee / Reviewer** for ICML, ICLR, NeurIPS, CVPR, ICCV, ECCV, ACL, EMNLP, etc.
 
 ---
+
+### 🛠 Tech Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thecommonirin&layout=compact&theme=nord)
+
+---
+
+🏠 **[thecommonirin.github.io](https://thecommonirin.github.io/)**
