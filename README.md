@@ -12,8 +12,3 @@ Currently, I am a Visiting Student at Nanyang Technological University, working 
 - 🎉 [ICLR 2026] "Safety at One Shot: Patching Fine-Tuned LLMs with A Single Instance" was accepted.
 - 📝 [PR 2026] "Self-Improved Holistic Alignment for Preference Enhancement" was accepted by Pattern Recognition.
 - 👨‍💻 Serving as a Program Committee / Reviewer for ICML, ICLR, ECCV, TIFS, NeurIPS, CVPR, ICCV, ACL, EMNLP, etc.
-
----
-
-### 🛠 Tech Stats
-[![Metrics](https://metrics.lecoq.io/Thecommonirin?template=classic&base.languages=1&base.languages.unit=percentage&base.languages.limit=8&theme=nord)](https://metrics.lecoq.io)
