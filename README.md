@@ -1,21 +1,19 @@
-# Hi there! I'm Kejia Chen (陈可嘉) 👋
+## Kejia Chen (陈可嘉)
 
-I'm a Ph.D. candidate at the Visual Intelligence and Pattern Analysis (VIPA) Lab, Zhejiang University. I'm fortunate to be advised by Prof. [Zunlei Feng](https://person.zju.edu.cn/fengzunlei) and Prof. [Mingli Song](https://scholar.google.com/citations?user=7oLbhAwAAAAJ&hl=en). 
+I am a Ph.D. candidate at the Visual Intelligence and Pattern Analysis (VIPA) Lab, Zhejiang University, advised by Prof. [Zunlei Feng](https://person.zju.edu.cn/fengzunlei) and Prof. [Mingli Song](https://scholar.google.com/citations?user=7oLbhAwAAAAJ&hl=en). My research focuses on building **Trustworthy Machine Learning systems**, with an emphasis on the safety and alignment of Large Language Models.
 
-Currently, I am a **Visiting Student** at Nanyang Technological University, working in the group led by Prof. [Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/).
+Currently, I am a Visiting Student at Nanyang Technological University, working with Prof. [Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/).
+
+🏠 **[thecommonirin.github.io](https://thecommonirin.github.io/)**
 
 ---
 
-### 📚 Latest News
-- 🎉 [**ICLR 2026**] Our paper "Safety at One Shot: Patching Fine-Tuned LLMs with A Single Instance" was accepted!
-- 📝 [**PR 2026**] "Self-Improved Holistic Alignment for Preference Enhancement" was accepted by *Pattern Recognition*.
-- 👨‍💻 Serving as a **Program Committee / Reviewer** for ICML, ICLR, NeurIPS, CVPR, ICCV, ECCV, ACL, EMNLP, etc.
+### 📚 News
+- 🎉 [ICLR 2026] "Safety at One Shot: Patching Fine-Tuned LLMs with A Single Instance" was accepted.
+- 📝 [PR 2026] "Self-Improved Holistic Alignment for Preference Enhancement" was accepted by Pattern Recognition.
+- 👨‍💻 Serving as a Program Committee / Reviewer for ICML, ICLR, ECCV, TIFS, NeurIPS, CVPR, ICCV, ACL, EMNLP, etc.
 
 ---
 
 ### 🛠 Tech Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thecommonirin&layout=compact&theme=nord)
-
----
-
-🏠 **[thecommonirin.github.io](https://thecommonirin.github.io/)**
+[![Metrics](https://metrics.lecoq.io/Thecommonirin?template=classic&base.languages=1&base.languages.unit=percentage&base.languages.limit=8&theme=nord)](https://metrics.lecoq.io)
