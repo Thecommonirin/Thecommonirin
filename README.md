@@ -9,6 +9,8 @@ Currently, I am a Visiting Student at Nanyang Technological University, under th
 ---
 
 ### 📚 Activities
+- 🎉 [ACL 2026] "Token-Level Inference-Time Alignment for Vision-Language Models" was accepted to Findings of ACL.
+- 🎉 [CCS 2026] "Understanding and Preserving Safety in Fine-Tuned LLMs" was accepted.
 - 🎉 [ICLR 2026] "Safety at One Shot: Patching Fine-Tuned LLMs with A Single Instance" was accepted.
 - 📝 [PR 2026] "Self-Improved Holistic Alignment for Preference Enhancement" was accepted by Pattern Recognition.
-- 👨‍💻 Serving as a Program Committee / Reviewer for ICML, ICLR, ECCV, TIFS, NeurIPS, CVPR, ICCV, ACL, EMNLP, etc.
+- 👨‍💻 Serving as a Reviewer for ICML, ICLR, NeurIPS, CVPR, ICCV, ECCV, TIFS, ACL, EMNLP, etc.
