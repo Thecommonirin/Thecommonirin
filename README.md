@@ -1,8 +1,8 @@
 ## TheCommonIrin ✨ 
 
-I am a Ph.D. candidate at the Visual Intelligence and Pattern Analysis (VIPA) Lab, Zhejiang University, advised by Prof. [Zunlei Feng](https://person.zju.edu.cn/fengzunlei) and Prof. [Mingli Song](https://scholar.google.com/citations?user=7oLbhAwAAAAJ&hl=en). My research focuses on building **Trustworthy Machine Learning systems**, with an emphasis on the safety and alignment of Large Language Models.
+I am a Ph.D. candidate at the Visual Intelligence and Pattern Analysis (VIPA) Lab, Zhejiang University, co-advised by Prof. [Zunlei Feng](https://person.zju.edu.cn/fengzunlei) and Prof. [Mingli Song](https://scholar.google.com/citations?user=7oLbhAwAAAAJ&hl=en). I am also deeply guided by Prof. [Jian Lou](https://sites.google.com/view/jianlou) throughout my research.
 
-Currently, I am a Visiting Student at Nanyang Technological University, under the esteemed supervision of Prof. [Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/).
+My research focuses on **Trustworthy Generative AI** (safety, alignment, and transparency) and **LLM-based Agents & Decision Making**. I closely collaborate with Prof. [Ruoxi Jia](https://ruoxijia.github.io/) and Prof. [Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/).
 
 🏠 **[thecommonirin.github.io](https://thecommonirin.github.io/)**
 
